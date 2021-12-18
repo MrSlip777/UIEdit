@@ -1,4 +1,4 @@
 # UIEdit
 draft
 
-marp
+marp:true
