@@ -37,7 +37,7 @@ public class ChangeButtonColor : ScriptableWizard
     public static void CreateWizard(){
         var wiz = ScriptableWizard.DisplayWizard<ChangeButtonColor>(
         "ChangeButtonColor", "change");
-            
+        Debug.Log("test");
     }
 
     void OnWizardCreate()
